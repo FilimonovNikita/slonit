@@ -20,5 +20,5 @@
 - Пункт третий
 
 ```php
-echo ("Hellow, WORLD!");
+echo ("Hello, WORLD!");
 ```
