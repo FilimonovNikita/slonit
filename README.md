@@ -6,9 +6,7 @@
 
 <https://github.com/FilimonovNikita>
 
-[Перейти к Заголовку 1](#title3)
-
-## <a id="title3">Заголовок 3</a>
+[Перейти к Заголовку 3](#title3)
 
 ![Красивая картинка](image.png)
 
@@ -21,6 +19,6 @@
 - Пункт второй
 - Пункт третий
 
-\```php
+```php
 echo ("Hellow, WORLD!");
-\```
+```
