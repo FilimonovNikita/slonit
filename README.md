@@ -2,7 +2,7 @@
 
 ### <a id="title3">___Заголовок 3 уровня с жирным курсивом___
 
-[Сыыслка на гитхаб](https://github.com/FilimonovNikita)
+[Сыслка на гитхаб](https://github.com/FilimonovNikita)
 
 <https://github.com/FilimonovNikita>
 
